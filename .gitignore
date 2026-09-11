@@ -46,6 +46,21 @@ compile_commands.json
 *.hex
 *.bin
 
+# 3D-моделирование и инженерные расчёты
+
+# SolidWorks
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+*.swbak
+
+# Blender
+*.blend[0-9]*
+blendcache_*/
+
+# COMSOL
+*.mph.lock
+
 # Временные файлы и журналы
 *.log
 *.tmp
