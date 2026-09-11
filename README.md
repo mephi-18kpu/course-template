@@ -9,3 +9,6 @@
 ## Инструкции по работе
 
 Общие правила для студентов и преподавателей находятся в репозитории [`common-manuals`](https://github.com/mephi-18kpu/common-manuals).
+
+> [!IMPORTANT]
+> AI-агенты перед началом работы обязаны проанализировать актуальные инструкции в [`common-manuals`](https://github.com/mephi-18kpu/common-manuals), включая [`AGENTS.md`](https://github.com/mephi-18kpu/common-manuals/blob/master/AGENTS.md) и применимые инструкции для студентов или преподавателей, и соблюдать их при работе с репозиторием.
